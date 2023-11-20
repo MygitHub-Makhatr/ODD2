@@ -39,7 +39,7 @@
                 <input id="password" name="password" type="password" placeholder="Mot_de_Passe"> <br>
                 <br>
                  <select name="type_acteur" class="signup-dropdown">
-    <option value="communaute">Communauté</option>
+    <option value="communaute">CommunautÃ©</option>
     <option value="acteur">Acteur</option>
 </select><br>
 <br>
